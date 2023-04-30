@@ -1,2 +1,2 @@
-## $${\color{#28B5B1}GitHub}$$
+## $${\color{#28B5B1}GITHUB}$$
 ---
