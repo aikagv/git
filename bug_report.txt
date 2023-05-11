@@ -8,7 +8,7 @@ STR:
 Environment:
 	 OS: iOS 16.2 iPhone 12 Pro;
 	 Browser: Safari 16.2;
-Actual result: A message appears, about successful registration;
-Expected result: A user has no understanding of the registration result;
+Expected result: A message appears, about successful registration;
+Actual result: A user has no understanding of the registration result;
 Severity: Minor;
-Priority: Low;
+Priority: Low
