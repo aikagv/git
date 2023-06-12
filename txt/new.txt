@@ -1,0 +1,5 @@
+name: Anna;
+surname: Gvozdeva;
+age: 31;
+pets: 0;
+desired salary: 100000.

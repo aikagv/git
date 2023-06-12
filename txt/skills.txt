@@ -1,0 +1,11 @@
+skill 1: QA Theory;
+skill 2: HTTP;
+skill 3: GIT;
+skill 4: Postman;
+skill 5: Charles;
+skill 6: DevTools;
+skill 7: VPN;
+skill 8: Android Studio;
+skill 9: Xcode;
+skill 10: Terminal;
+skill 11: SQL.

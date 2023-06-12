@@ -1,0 +1,5 @@
+favorite movie: 'Midnight in Paris';
+favorite TVshow: 'The Sopranos';
+favorite food: Italian cuisine;
+favorite season: Spring;
+country to visit: China.
